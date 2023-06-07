@@ -1,6 +1,8 @@
-# bmi_calculator_app
+# BMI Calculator APP
 
 A Flutter App Called BMI Calaculator which calculates BMI(Body Mass Index) of the person. It takes 3 input namely Gender, Height and Weight and gives the corresponding bmi of the person and also gives the message of what should be done.A Flutter App Called BMI Calaculator which calculates BMI(Body Mass Index) of the person. It takes 3 input namely Gender, Height and Weight and gives the corresponding bmi of the person and also gives the message of what should be done.
+
+# Screencshots
 
 ####Screen 1 #####
 
