@@ -6,6 +6,7 @@ A Flutter App Called BMI Calaculator which calculates BMI(Body Mass Index) of th
 
 ####Screen 1 #####
 
+<img src="https://user-images.githubusercontent.com/90596719/222974965-6c6286e0-6cef-4cf2-915a-50e0a62da5cc.png" alt="ss1" width:"100" height="200">
 ![image](https://user-images.githubusercontent.com/90596719/222974965-6c6286e0-6cef-4cf2-915a-50e0a62da5cc.png =200x400)
 
 
